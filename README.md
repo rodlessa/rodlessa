@@ -1,4 +1,4 @@
-- Rodrigo Lessa, not working in IT right now but looking to get into!
+- Rodrigo Lessa, Tech Support for living, devops as hobby because i love building things from scratch!
 
 <!---
 rodlessa/rodlessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
