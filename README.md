@@ -48,3 +48,15 @@ Assim como acompanhamento de projetos em desenvolvimento.
 [Parte 1](https://github.com/rodlessa/ansible-101-pt-br) : [:white_check_mark:]
 
 Parte 2: Em processo de estruturação
+
+# Dev Stack
+```mermaid
+graph LR
+
+A[Stack] -- Serverless --> B((Versel))
+A -- Database --> C((PlanetScale))
+C --> B
+A -- Storage --> D((AWS S3))
+A -- VMs --> E((AWS EC2))
+C --> E
+D --> E
