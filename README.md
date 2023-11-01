@@ -38,10 +38,7 @@ Assim como acompanhamento de projetos em desenvolvimento.
 
 ## Progressão Cloud
 #### AWS Certification:
-   - Solutions Architect Learning Plan: Em progresso...
-    
-   - Certificação Cloud Practitioner : Em progresso...
-
+   - Solutions Architect Professional: [Passed!](https://www.credly.com/badges/2630493c-88c0-495c-b697-c039f8406267/public_url)
 ## Projetos Atuais:
 ### Tutoriais Ansible 101:
 
