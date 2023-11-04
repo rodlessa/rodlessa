@@ -53,7 +53,7 @@ Assim como acompanhamento de projetos em desenvolvimento.
 
 [Parte 1](https://github.com/rodlessa/ansible-101-pt-br) : [:white_check_mark:]
 
-Parte 2: Em processo de estruturação
+[Parte 2](https://github.com/rodlessa/ansible-101-pt-br/tree/main/Parte%202) : [:white_check_mark:]
 
 # Dev Stack - Ansible Control
 ```mermaid
