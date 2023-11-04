@@ -13,6 +13,9 @@ Assim como acompanhamento de projetos em desenvolvimento.
  | JavaScript: [:white_check_mark:] | ReactJS: [:white_check_mark:] | 
  | Python: [:white_check_mark:] | Django: [:white_check_mark:] | 
  | | Tailwind: [:white_check_mark:] |
+ | Database | PostgreSQL: [:white_check_mark:] |
+ | | MSSQL: [:white_check_mark:] |
+ | | MongoDB: [:white_check_mark:] |
  
 | Conhecimentos Infraestrutura| | 
 | ---- | ---- | 
@@ -38,7 +41,7 @@ Assim como acompanhamento de projetos em desenvolvimento.
 
 ## Progressão Cloud
 #### AWS Certification:
-   - Solutions Architect Professional: [Passed!](https://www.credly.com/badges/2630493c-88c0-495c-b697-c039f8406267/public_url)
+   - Solutions Architect Professional: [Pass!](https://www.credly.com/badges/2630493c-88c0-495c-b697-c039f8406267/public_url)
 ## Projetos Atuais:
 ### Tutoriais Ansible 101:
 
@@ -46,7 +49,7 @@ Assim como acompanhamento de projetos em desenvolvimento.
 
 Parte 2: Em processo de estruturação
 
-# Dev Stack
+# Dev Stack - Ansible Control
 ```mermaid
 graph LR
 
