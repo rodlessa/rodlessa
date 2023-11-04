@@ -25,7 +25,10 @@ Assim como acompanhamento de projetos em desenvolvimento.
 | Firewall | PFSense | 
 | Web Hosting| Email,Cpanel, Apache Nginx|
 
-
+| Virtualização - Container | |
+| ---- | ---- |
+|Docker | :white_check_mark: |
+|Hyper-V | :white_check_mark: |
 
 ## Cursos em processo:
 
