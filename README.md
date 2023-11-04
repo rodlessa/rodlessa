@@ -7,7 +7,7 @@ Assim como acompanhamento de projetos em desenvolvimento.
 :octocat: https://github.com/rodlessa 
 
 :rocket: https://rdls.dev/
- | Conhecimentos Dev: | Frameworks Dev: |
+ | Linguagens | Frameworks |
  | --------------------- | ------------------- |
  | HTML & CSS3: [:white_check_mark:] | Bootstrap: [:white_check_mark:] |
  | JavaScript: [:white_check_mark:] | ReactJS: [:white_check_mark:] | 
