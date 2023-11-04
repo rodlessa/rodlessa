@@ -6,7 +6,7 @@ Assim como acompanhamento de projetos em desenvolvimento.
 ## GitHub: 
 :octocat: https://github.com/rodlessa 
 
-:rocket:
+:rocket: https://rdls.dev/
  | Conhecimentos Dev: | Frameworks Dev: |
  | --------------------- | ------------------- |
  | HTML & CSS3: [:white_check_mark:] | Bootstrap: [:white_check_mark:] |
