@@ -9,13 +9,13 @@ Assim como acompanhamento de projetos em desenvolvimento.
 :rocket: https://rdls.dev/ (Django + Vercel)
  | Linguagens | Frameworks |
  | --------------------- | ------------------- |
- | HTML & CSS3: [:white_check_mark:] | Bootstrap: [:white_check_mark:] |
- | JavaScript: [:white_check_mark:] | ReactJS: [:white_check_mark:] | 
- | Python: [:white_check_mark:] | Django: [:white_check_mark:] | 
- | | Tailwind: [:white_check_mark:] |
- | Database | PostgreSQL: [:white_check_mark:] |
- | | MSSQL: [:white_check_mark:] |
- | | MongoDB: [:white_check_mark:] |
+ | HTML & CSS3: :white_check_mark: | Bootstrap: :white_check_mark: |
+ | JavaScript: :white_check_mark:] | ReactJS: :white_check_mark: | 
+ | Python: :white_check_mark: | Django: :white_check_mark: | 
+ | | Tailwind: :white_check_mark: |
+ | Database | PostgreSQL: :white_check_mark: |
+ | | MSSQL: :white_check_mark: |
+ | | MongoDB: :white_check_mark: |
 
 | Virtualização - Container | |
 | ---- | ---- |
