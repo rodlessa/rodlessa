@@ -3,8 +3,7 @@
 
 ## Analista de Sistemas Jr.
 
-Esse README.md é voltado para manter meus conhecimentos e estudos atualizados. 
-Assim como acompanhamento de projetos em desenvolvimento.
+Atualmente trabalhando com DBA, stack na **AWS**,**Vercel**, usando **React**, **Django**, **MongoDB**
 ## GitHub: 
 :octocat: https://github.com/rodlessa 
 
