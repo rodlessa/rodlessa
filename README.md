@@ -11,7 +11,8 @@ Atualmente trabalhando com DBA, stack na **AWS**,**Vercel**, usando **React**, *
  | Linguagens | Frameworks |
  | --------------------- | ------------------- |
  | HTML & CSS3: :white_check_mark: | Bootstrap: :white_check_mark: |
- | JavaScript: :white_check_mark:] | ReactJS: :white_check_mark: | 
+ | JavaScript: :white_check_mark: | ReactJS: :white_check_mark: | 
+ | Go: :pencil: |
  | Python: :white_check_mark: | Django: :white_check_mark: | 
  | | Tailwind: :white_check_mark: |
  | | Vue.JS :white_check_mark: |
