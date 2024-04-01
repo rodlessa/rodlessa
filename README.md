@@ -14,6 +14,9 @@ Atualmente trabalhando com DBA, stack na **AWS**,**Vercel**, usando **React**, *
  | JavaScript: :white_check_mark:] | ReactJS: :white_check_mark: | 
  | Python: :white_check_mark: | Django: :white_check_mark: | 
  | | Tailwind: :white_check_mark: |
+ | Vue.JS :white_check_mark: |
+ | NuxtJS :white_check_mark: |
+ 
  | Database | PostgreSQL: :white_check_mark: |
  | | MSSQL: :white_check_mark: |
  | | MongoDB: :white_check_mark: |
