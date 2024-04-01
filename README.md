@@ -14,8 +14,8 @@ Atualmente trabalhando com DBA, stack na **AWS**,**Vercel**, usando **React**, *
  | JavaScript: :white_check_mark:] | ReactJS: :white_check_mark: | 
  | Python: :white_check_mark: | Django: :white_check_mark: | 
  | | Tailwind: :white_check_mark: |
- | Vue.JS :white_check_mark: |
- | NuxtJS :white_check_mark: |
+ | | Vue.JS :white_check_mark: |
+ | | NuxtJS :white_check_mark: |
  
  | Database | PostgreSQL: :white_check_mark: |
  | | MSSQL: :white_check_mark: |
@@ -51,7 +51,7 @@ Atualmente trabalhando com DBA, stack na **AWS**,**Vercel**, usando **React**, *
 
 ## Progressão Cloud
 #### AWS Certification:
-   - Solutions Architect Professional: [Pass!](https://www.credly.com/badges/2630493c-88c0-495c-b697-c039f8406267/public_url)
+   - Solutions Architect Associate: [Pass!](https://www.credly.com/badges/2630493c-88c0-495c-b697-c039f8406267/public_url)
 ## Projetos Atuais:
 ### Tutoriais Ansible 101:
 
