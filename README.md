@@ -1,74 +1,62 @@
+# 👋 Olá, eu sou Rodrigo Lessa
 
-# Rodrigo L. Rodrigues
+💼 Analista de Sistemas Jr. | 🌎 Fortaleza, Brazil | 🌐 [rdls.dev](https://rdls.dev)  
 
-## Analista de Sistemas Jr.
+> Curioso, proativo e apaixonado por transformar ideias em soluções reais.
 
-Atualmente trabalhando com DBA, stack na **AWS**,**Vercel**, usando **React**, **Django**, **MongoDB**
-## GitHub: 
-:octocat: https://github.com/rodlessa 
+---
 
-:rocket: https://rdls.dev/ (Django + Vercel)
- | Linguagens | Frameworks |
- | --------------------- | ------------------- |
- | JavaScript: :white_check_mark: | ReactJS: :white_check_mark: | 
- | Go: :pencil: |
- | Python: :white_check_mark: | Django: :white_check_mark: | 
- | | Tailwind: :white_check_mark: |
- | | Vue.JS :white_check_mark: |
- | | NuxtJS :white_check_mark: |
- 
- | Database | |
- | --------------------- | ------------------- |
- |  PostgreSQL: | :white_check_mark: 
- |  MSSQL: | :white_check_mark: |
- |  MongoDB: | :white_check_mark: |
+## ⚡ Minhas Habilidades
 
-| Virtualização - Container | |
-| ---- | ---- |
-|Docker | :white_check_mark: |
-|Hyper-V | :white_check_mark: |
+| Área | Skills | Nível |
+|------|-------|-------|
+| 💻 Frontend | React, Vue, Nuxt | <code>██████ 60%</code> |
+| 🐍 Backend | Python, Django, FastAPI | <code>████████ 80%</code> |
+| ☁ Cloud & Infra | AWS (Lambda, S3, DynamoDB), Linux | <code>██████ 70%</code> |
+| 🐳 DevOps | Docker, CI/CD, Pipelines GitLab | <code>██████ 65%</code> |
+| 🗄 Dados & Scripts | SQL (PostgreSQL, MSSQL), Automação Python | <code>████████ 80%</code> |
 
- 
-| Conhecimentos Infraestrutura| | 
-| ---- | ---- | 
-| Windows Server  | AD, GPO, File Sharing | 
-| Linux| | 
-| Redes | Cabeamento, DNS, IP| 
-| Firewall | PFSense | 
-| Web Hosting| Email,Cpanel, Apache Nginx|
+> **Observações sobre as skills:**  
+> - **Frontend:** conheço bem fundamentos, forms, rotas e validação, mas ainda estou evoluindo em hooks e state management complexos.  
+> - **Backend:** confiante em lógica, CRUD, APIs e scripts automatizados.  
+> - **Cloud & Infra:** prática com deploy serverless e administração de servidores.  
+> - **DevOps:** uso Docker, pipelines simples, aprimorando automação completa.  
+> - **SQL & Scripts:** manipulação de dados, consultas e automações com planilhas e DynamoDB.
 
+---
 
+## 🏆 Projetos em Destaque
 
-## Cursos em processo:
+| Projeto | Descrição |
+|---------|-----------|
+| [ansible-101-pt-br](https://github.com/rodlessa/ansible-101-pt-br) | Tutoriais de Ansible em português |
+| [SC2API-Players](https://github.com/rodlessa/SC2API-Players) | Automação e scripts divertidos em Python |
+| [rdls.dev](https://rdls.dev) | Portfolio pessoal e projetos deployados |
+| **Automação Cloud** | Lambda que integra S3 com DynamoDB, scripts e APIs internas |
+| **Planilhas & Relatórios** | Scripts em Python para gerar planilhas com comissões e indicadores automaticamente |
 
-- SQL by FreeCodeAcademy
-- CI/CD Pipeline with Gitlab
+---
 
-## Progressão DevOps
-- Estudos CI/CD
-- Estudos de Docker/Dockercompose
-- Ansible
-- Terraform
-- Vagrant
+## 🌟 Soft Skills
 
-## Progressão Cloud
-#### AWS Certification:
-   - Solutions Architect Associate: [Pass!](https://www.credly.com/badges/2630493c-88c0-495c-b697-c039f8406267/public_url)
-## Projetos Atuais:
-### Tutoriais Ansible 101:
+- 💡 Proatividade & Curiosidade  
+- 📊 Organização e atenção aos detalhes  
+- 🗣 Boa comunicação e clareza ao explicar soluções  
+- 🛠 Capacidade de aprender rapidamente e aplicar  
+- 🔄 Resolução prática de problemas complexos  
 
-[Parte 1](https://github.com/rodlessa/ansible-101-pt-br) : [:white_check_mark:]
+---
 
-[Parte 2](https://github.com/rodlessa/ansible-101-pt-br/tree/main/Parte%202) : [:white_check_mark:]
+## 📊 GitHub Stats
 
-# Dev Stack - Ansible Control
-```mermaid
-graph LR
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodlessa&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodlessa&layout=compact&theme=radical)
 
-A[Stack] -- Serverless --> B((Versel))
-A -- Database --> C((PlanetScale))
-C --> B
-A -- Storage --> D((AWS S3))
-A -- VMs --> E((AWS EC2))
-C --> E
-D --> E
+---
+
+## 🤝 Contato
+
+📧 rodlessa@gmail.com  
+🌐 [rdls.dev](https://rdls.dev)  
+
+> Transformo desafios em soluções simples e funcionais, com atenção aos detalhes e foco no resultado.
