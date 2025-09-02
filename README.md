@@ -2,7 +2,7 @@
 
 💼 Analista de Sistemas Jr. | 🌎 Fortaleza, Brazil | 🌐 [rdls.dev](https://rdls.dev)  
 
-> Curioso, proativo e apaixonado por transformar ideias em soluções reais.
+> “Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso”.
 
 ---
 
@@ -11,7 +11,7 @@
 | Área | Skills | Nível |
 |------|-------|-------|
 | 💻 Frontend | React, Vue, Nuxt | <code>██████ 60%</code> |
-| 🐍 Backend | Python, Django, FastAPI | <code>████████ 80%</code> |
+| 🐍 Backend | Python, Django, FastAPI, GO, Gin | <code>████████ 80%</code> |
 | ☁ Cloud & Infra | AWS (Lambda, S3, DynamoDB), Linux | <code>██████ 70%</code> |
 | 🐳 DevOps | Docker, CI/CD, Pipelines GitLab | <code>██████ 65%</code> |
 | 🗄 Dados & Scripts | SQL (PostgreSQL, MSSQL), Automação Python | <code>████████ 80%</code> |
@@ -58,5 +58,3 @@
 
 📧 rodlessa@gmail.com  
 🌐 [rdls.dev](https://rdls.dev)  
-
-> Transformo desafios em soluções simples e funcionais, com atenção aos detalhes e foco no resultado.
