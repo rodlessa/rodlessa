@@ -48,10 +48,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodlessa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodlessa&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodlessa)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🤝 Contato
