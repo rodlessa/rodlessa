@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rodrigo Lessa
 
-💼 Analista de Sistemas Jr. | 🌎 Fortaleza, Brazil | 🌐 [rdls.dev](https://rdls.dev)  
+💼 NOC Engineer @ Box.com | 🌎 Fortaleza, Brazil | 🌐 [rdls.dev](https://rdls.dev)  
 
 > “Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso”.
 
